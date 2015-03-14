@@ -68,3 +68,5 @@ target/
 pyvenv.cfg
 pip-selfcheck.json
 
+# pyenv virtualenv
+.python-version
